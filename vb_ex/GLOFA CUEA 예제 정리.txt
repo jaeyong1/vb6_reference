@@ -1,0 +1,10 @@
+보낸 사람: 	이재익
+보낸 날짜: 	1998년 2월 20일 금요일 오전 9:14
+받는 사람: 	유영욱
+제목: 	GLOFA CUEA 예제 정리
+
+VB5.0으로 작성된 예제입니다.
+기존 CUEA 교육용 예제를 정리하였읍니다.
+* CUEA교육 교재의 내용중 통신 포멧(그림부분)중에서 PLC 정상응답 포멧(컴퓨터 ← PLC)부분에
+서 테일은 EOT가 아니라 ETX이니 수정바랍니다.
+<<파일: FRM쓰기.frm>> <<파일: frm읽기.frm>> <<파일: FRM읽기.log>> <<파일: GLOFA_CUEA.frm>> <<파일: GLOFA_CUEA.vbp>> <<파일: GLOFA_CUEA.vbw>> <<파일: GLOFA_CUEA.exe>> 

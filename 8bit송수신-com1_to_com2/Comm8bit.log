@@ -1,0 +1,44 @@
+14 행: text2 컨트롤의 RichTextLib.RichTextBox 클래스는 로드한 컨트롤 클래스가 아닙니다.
+35 행: text1 컨트롤의 RichTextLib.RichTextBox 클래스는 로드한 컨트롤 클래스가 아닙니다.
+78 행: MSComm1 컨트롤의 MSCommLib.MSComm 클래스는 로드한 컨트롤 클래스가 아닙니다.
+94 행: MSComm2 컨트롤의 MSCommLib.MSComm 클래스는 로드한 컨트롤 클래스가 아닙니다.
+110 행: text1 컨트롤의 RichTextLib.RichTextBox 클래스는 로드한 컨트롤 클래스가 아닙니다.
+20 행: text2의 _ExtentX 속성 이름이 잘못되었습니다. 
+21 행: text2의 _ExtentY 속성 이름이 잘못되었습니다. 
+22 행: text2의 _Version 속성 이름이 잘못되었습니다. 
+24 행: text2의 ScrollBars 속성 이름이 잘못되었습니다. 
+25 행: text2의 TextRTF 속성 이름이 잘못되었습니다. 
+42 행: text1의 _ExtentX 속성 이름이 잘못되었습니다. 
+43 행: text1의 _ExtentY 속성 이름이 잘못되었습니다. 
+44 행: text1의 _Version 속성 이름이 잘못되었습니다. 
+46 행: text1의 ScrollBars 속성 이름이 잘못되었습니다. 
+47 행: text1의 TextRTF 속성 이름이 잘못되었습니다. 
+81 행: MSComm1의 _ExtentX 속성 이름이 잘못되었습니다. 
+82 행: MSComm1의 _ExtentY 속성 이름이 잘못되었습니다. 
+83 행: MSComm1의 _Version 속성 이름이 잘못되었습니다. 
+84 행: MSComm1의 DTREnable 속성 이름이 잘못되었습니다. 
+85 행: MSComm1의 InputLen 속성 이름이 잘못되었습니다. 
+86 행: MSComm1의 OutBufferSize 속성 이름이 잘못되었습니다. 
+87 행: MSComm1의 RThreshold 속성 이름이 잘못되었습니다. 
+88 행: MSComm1의 RTSEnable 속성 이름이 잘못되었습니다. 
+89 행: MSComm1의 BaudRate 속성 이름이 잘못되었습니다. 
+90 행: MSComm1의 SThreshold 속성 이름이 잘못되었습니다. 
+91 행: MSComm1의 EOFEnable 속성 이름이 잘못되었습니다. 
+92 행: MSComm1의 InputMode 속성 이름이 잘못되었습니다. 
+97 행: MSComm2의 _ExtentX 속성 이름이 잘못되었습니다. 
+98 행: MSComm2의 _ExtentY 속성 이름이 잘못되었습니다. 
+99 행: MSComm2의 _Version 속성 이름이 잘못되었습니다. 
+100 행: MSComm2의 DTREnable 속성 이름이 잘못되었습니다. 
+101 행: MSComm2의 InputLen 속성 이름이 잘못되었습니다. 
+102 행: MSComm2의 OutBufferSize 속성 이름이 잘못되었습니다. 
+103 행: MSComm2의 RThreshold 속성 이름이 잘못되었습니다. 
+104 행: MSComm2의 RTSEnable 속성 이름이 잘못되었습니다. 
+105 행: MSComm2의 BaudRate 속성 이름이 잘못되었습니다. 
+106 행: MSComm2의 SThreshold 속성 이름이 잘못되었습니다. 
+107 행: MSComm2의 EOFEnable 속성 이름이 잘못되었습니다. 
+108 행: MSComm2의 InputMode 속성 이름이 잘못되었습니다. 
+117 행: text1의 _ExtentX 속성 이름이 잘못되었습니다. 
+118 행: text1의 _ExtentY 속성 이름이 잘못되었습니다. 
+119 행: text1의 _Version 속성 이름이 잘못되었습니다. 
+121 행: text1의 ScrollBars 속성 이름이 잘못되었습니다. 
+122 행: text1의 TextRTF 속성 이름이 잘못되었습니다. 

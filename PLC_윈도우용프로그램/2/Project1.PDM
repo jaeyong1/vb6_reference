@@ -1,0 +1,222 @@
+[Root]
+Most Recent Package=Samdo no.2
+
+
+[Package|SAMDO waterpumping System|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\vb\PLC_윈도우용프로그램\2\Package
+
+[Package|SAMDO waterpumping System|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SAMDO waterpumping System|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SAMDO waterpumping System|Files Found]
+
+[Package|SAMDO waterpumping System|Files Released]
+
+[Package|SAMDO waterpumping System|Missing Dependency Information]
+
+[Package|SAMDO waterpumping System|Out-of-Date Dependency Information]
+
+[Package|SAMDO waterpumping System|Files Added]
+C:\DIAL1.TXT=
+C:\DIAL2.TXT=
+C:\DIAL3.TXT=
+C:\PORT.TXT=
+
+[Package|SAMDO waterpumping System|Files Removed]
+
+[Package|SAMDO waterpumping System|Files In Project]
+C:\Documents and Settings\재용\바탕 화면\PLC-2.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6KO.DLL=Yes
+C:\WINNT\system32\MSCOMM32.OCX=Yes
+C:\WINNT\system32\MSCOMKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\DIAL1.TXT=Yes
+C:\DIAL2.TXT=Yes
+C:\DIAL3.TXT=Yes
+C:\PORT.TXT=Yes
+
+[Package|SAMDO waterpumping System|Configure Registry Files]
+Applicable=No
+
+[Package|SAMDO waterpumping System|Configure Remote Servers]
+Applicable=No
+
+[Package|SAMDO waterpumping System|Install Locations]
+C:\Documents and Settings\재용\바탕 화면\PLC-2.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6KO.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\DIAL1.TXT=$(AppPath)
+C:\DIAL2.TXT=$(AppPath)
+C:\DIAL3.TXT=$(AppPath)
+C:\PORT.TXT=$(AppPath)
+
+[Package|SAMDO waterpumping System|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\재용\바탕 화면\PLC-2.exe=No
+C:\DIAL1.TXT=No
+C:\DIAL2.TXT=No
+C:\DIAL3.TXT=No
+C:\PORT.TXT=No
+
+[Package|SAMDO waterpumping System|Distribution]
+Type=single
+Size=
+Title=2번 PLC(Made by P.J.Y.)
+
+[Package|SAMDO waterpumping System|IconGroups]
+Group0=삼도 모니터링
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|SAMDO waterpumping System|삼도 모니터링]
+Icon1=PLC-2.exe
+Title1=2번 PLC(Made by P.J.Y.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SAMDO waterpumping System|Package]
+PackageFolder=C:\vb\PLC_윈도우용프로그램\2\Package
+ProjectFolder=C:\vb\PLC_윈도우용프로그램\2
+ServerSideCab=
+File1=C:\vb\PLC_윈도우용프로그램\2\Package\setup.exe
+File2=C:\vb\PLC_윈도우용프로그램\2\Package\Setup.Lst
+File3=C:\vb\PLC_윈도우용프로그램\2\Package\PLC-2.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Samdo no.2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\양수장2003\설치파일_설명서\2번
+
+[Package|Samdo no.2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Samdo no.2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Samdo no.2|Files Found]
+
+[Package|Samdo no.2|Files Released]
+PORT.TXT=
+DIAL3.TXT=
+DIAL2.TXT=
+DIAL1.TXT=
+
+[Package|Samdo no.2|Missing Dependency Information]
+C:\sdwater\SMSCOM.dll=
+
+[Package|Samdo no.2|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSINET.OCX=
+
+[Package|Samdo no.2|Files Added]
+
+[Package|Samdo no.2|Files Removed]
+
+[Package|Samdo no.2|Files In Project]
+C:\Documents and Settings\재용\바탕 화면\PLC-2.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6KO.DLL=Yes
+C:\WINNT\system32\MSCOMM32.OCX=Yes
+C:\WINNT\system32\MSCOMKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\sdwater\SMSCOM.dll=Yes
+C:\WINNT\system32\MSINET.OCX=Yes
+C:\WINNT\system32\INETKO.DLL=Yes
+
+[Package|Samdo no.2|Configure Registry Files]
+Applicable=No
+
+[Package|Samdo no.2|Configure Remote Servers]
+Applicable=No
+
+[Package|Samdo no.2|Install Locations]
+C:\Documents and Settings\재용\바탕 화면\PLC-2.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6KO.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\DIAL1.TXT=$(AppPath)
+C:\DIAL2.TXT=$(AppPath)
+C:\DIAL3.TXT=$(AppPath)
+C:\PORT.TXT=$(AppPath)
+C:\sdwater\SMSCOM.dll=$(WinSysPath)
+C:\WINNT\system32\MSINET.OCX=$(WinSysPath)
+C:\WINNT\system32\INETKO.DLL=$(WinSysPath)
+
+[Package|Samdo no.2|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\재용\바탕 화면\PLC-2.exe=No
+C:\DIAL1.TXT=No
+C:\DIAL2.TXT=No
+C:\DIAL3.TXT=No
+C:\PORT.TXT=No
+
+[Package|Samdo no.2|Distribution]
+Type=single
+Size=
+Title=삼도양수관리 no.2
+
+[Package|Samdo no.2|IconGroups]
+Group0=삼도양수관리 no.2
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Samdo no.2|삼도양수관리 no.2]
+Icon1=PLC-2.exe
+Title1=삼도양수관리 no.2
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Samdo no.2|Package]
+PackageFolder=C:\양수장2003\설치파일_설명서\2번
+ProjectFolder=C:\vb\PLC_윈도우용프로그램\2
+ServerSideCab=
+File1=C:\양수장2003\설치파일_설명서\2번\setup.exe
+File2=C:\양수장2003\설치파일_설명서\2번\Setup.Lst
+File3=C:\양수장2003\설치파일_설명서\2번\PLC-2.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
